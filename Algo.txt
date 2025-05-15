@@ -1,0 +1,8 @@
+Step 1: Order the Pizza. 
+Step 2: Wait for Delievery.
+Step 3: Wait for doorbell.
+Step 4: After doorbell, open door. 
+Step 5: Pay the delievery person.
+Step 6: Take pizza.
+Step 7: Close door. 
+Step 8: Enjoy Pizza. 
