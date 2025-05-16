@@ -1,4 +1,5 @@
 Step 1: Order the Pizza. 
+Step 1: Order Half Cheese and Half Chicken
 Step 2: Wait for Delievery.
 Step 3: Wait for doorbell.
 Step 4: After doorbell, open door. 
